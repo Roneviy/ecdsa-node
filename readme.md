@@ -1,4 +1,4 @@
-Description: This project is a simple web application for managing an Ethereum wallet. Users can input their private key, and the application automatically computes the corresponding wallet address. Then, the application checks the balance of this address using an external server and displays the current wallet balance in ETH.
+This project is a simple web application for managing an Ethereum wallet. Users can input their private key, and the application automatically computes the corresponding wallet address. Then, the application checks the balance of this address using an external server and displays the current wallet balance in ETH.
 
 Features:
 
